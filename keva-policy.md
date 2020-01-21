@@ -14,9 +14,8 @@ Avertissement : L'Application mobile Keva vous permet de gérer vos opérations 
 L'utilisation de l'application necessite au préalable de créer un compte utilisateur avec votre numéro Airtel gabon (Lié au compte Airtel Money) et un code pin de protection de l'application.
 L'utilisateur doit accorder les permissions suivantes
 
-- CALL_PHONE : Permettant d'exécuter les commandes USSD
-- RECEIVE_SMS et READ_SMS: Permettant lire les sms envoyé par Airtel Money pour la confirmations des transactions.
-- READ_PHONE_STATE : Pour traiter les interactions USSD.
+- Téléphone : Pour le fonctionnement des requêtes USSD (exemple *150#)
+- SMS: Pour lire les messages d'acquittement envoyé par Airtel Money pour la confirmations les transactions.
 
 ## COLLECTE DES DONNÉES PERSONNELLES
 Nous ne collectons aucune données personnelles des personnes qui vont utiliser cette application.
